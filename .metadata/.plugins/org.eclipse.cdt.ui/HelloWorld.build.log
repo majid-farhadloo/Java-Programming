@@ -1,0 +1,11 @@
+22:52:54 **** Incremental Build of configuration Debug for project HelloWorld ****
+Info: Internal Builder is used for build
+clang++ -O0 -emit-llvm -g3 -Wall -c -fmessage-length=0 -o Hello.bc "..\\Hello.cpp" 
+Cannot run program "clang++": Launching failed
+
+Error: Program "clang++" not found in PATH
+PATH=[C:\MinGW\bin;C:\MinGW\msys\1.0\bin;C:\MinGW\msys\1.0\usr\bin;C:/Program Files/Java/jre1.8.0_121/bin/server;C:/Program Files/Java/jre1.8.0_121/bin;C:/Program Files/Java/jre1.8.0_121/lib/amd64;C:\Program Files\Microsoft MPI\Bin\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Majid\App\MikTex\miktex\bin\x64\;C:\Majid\App\Matlab\runtime\win64;C:\Majid\App\Matlab\bin;C:\Android;C:\Windows\System32;C:\Program Files (x86)\Skype\Phone\;C:\Majid\App\node\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Users\farha\AppData\Local\Microsoft\WindowsApps;C:\Users\farha\AppData\Roaming\npm;C:\Program Files\Emergent 5.3.10 (64-bit)\bin;C:\eclipse]
+
+
+22:52:54 Build Finished (took 75ms)
+

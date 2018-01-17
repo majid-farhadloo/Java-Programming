@@ -1,0 +1,30 @@
+15:11:28 **** Build of configuration Debug for project FirstProject ****
+make all 
+Building file: ../HelloWorld.cpp
+Invoking: Cygwin C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"HelloWorld.d" -MT"HelloWorld.o" -o "HelloWorld.o" "../HelloWorld.cpp"
+../HelloWorld.cpp:7:7: error: expected nested-name-specifier before 'namesapce'
+ using namesapce std;
+       ^~~~~~~~~
+../HelloWorld.cpp: In function 'int main()':
+../HelloWorld.cpp:11:2: error: 'cout' was not declared in this scope
+  cout<<"helloWorld"<<endl;
+  ^~~~
+../HelloWorld.cpp:11:2: note: suggested alternative:
+In file included from ../HelloWorld.cpp:6:0:
+/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++/iostream:61:18: note:   'std::cout'
+   extern ostream cout;  /// Linked to standard output
+                  ^~~~
+../HelloWorld.cpp:11:22: error: 'endl' was not declared in this scope
+  cout<<"helloWorld"<<endl;
+                      ^~~~
+../HelloWorld.cpp:11:22: note: suggested alternative:
+In file included from /usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++/iostream:39:0,
+                 from ../HelloWorld.cpp:6:
+/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++/ostream:590:5: note:   'std::endl'
+     endl(basic_ostream<_CharT, _Traits>& __os)
+     ^~~~
+make: *** [subdir.mk:20: HelloWorld.o] Error 1
+
+15:11:32 Build Finished (took 3s.603ms)
+

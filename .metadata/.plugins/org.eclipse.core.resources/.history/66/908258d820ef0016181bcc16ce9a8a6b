@@ -1,0 +1,52 @@
+
+public class MyIntegerTest {
+	static MyInteger value = new MyInteger(2);
+	@SuppressWarnings("unused")
+	public static void main(String[] args) {
+		boolean odd = isOdd(4);
+		boolean even = isEven(18);
+		boolean val = isPrime(5);
+		System.out.println(" show the number is prime or not : " + val + " \n if it is odd true otherwise not : " + odd + 
+				"\n if it is even true otherwise is not : " + even);
+	}
+	public static boolean isEven(int value){
+		if(value%2==0){
+			return true;
+		}
+		return false;
+	}
+	public static boolean isOdd(int value){
+		if(value%2==0){
+			return false;
+		}
+		return true;
+	}
+	public static boolean isPrime(int value){
+		for(int i=2;i<value;i++){
+			if(value% i==0){
+				return false;
+			}
+		}
+		return true;
+	}
+	/*public static boolean equals(MyInteger value1){
+		// here there is a question ??????
+		if( value == value1.value){
+			return true;	
+		}
+		return false;
+	}*/
+	public static int ParseInt(char[] numChar){
+		int value  = 0;
+		for(int i = 0; i<numChar.length;i++){
+			value = numChar[i] - 48;
+		}
+		return value;
+	}
+	public static int parseInt(String str){
+		int value = Integer.parseInt(str);
+		return value;
+	}
+}
+
+

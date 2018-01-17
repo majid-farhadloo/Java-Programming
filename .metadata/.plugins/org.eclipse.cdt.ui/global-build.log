@@ -1,0 +1,42 @@
+15:15:33 **** Incremental Build of configuration Debug for project FirstProject ****
+make all 
+Building file: ../Hello.cpp
+Invoking: Cygwin C++ Compiler
+g++ -I"../YGWIN_HOME\lib\gcc\i686-pc-cygwin\4.5.x\include-fixed" -I"../YGWIN_HOME\lib\gcc\i686-pc-cygwin\4.5.x\include\c++" -I"../YGWIN_HOME\lib\gcc\i686-pc-cygwin\4.5.x\include\c++\i686-pc-cygwin" -I"../YGWIN_HOME\lib\gcc\i686-pc-cygwin\4.5.x\include\c++\backward" -I"../YGWIN_HOME\lib\gcc\i686-pc-cygwin\4.5.x\include" -I"../YGWIN_HOME\usr\include" -I"../YGWIN_HOME\usr\include\w32api" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"Hello.d" -MT"Hello.o" -o "Hello.o" "../Hello.cpp"
+../Hello.cpp:7:7: error: expected nested-name-specifier before 'namesapce'
+ using namesapce std;
+       ^~~~~~~~~
+make: *** [subdir.mk:20: Hello.o] Error 1
+15:11:27 **** Rebuild of configuration Debug for project FP ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o h.o "..\\h.cpp" 
+..\h.cpp:7:7: error: expected nested-name-specifier before 'namesapce'
+ using namesapce std;
+       ^~~~~~~~~
+15:11:28 **** Build of configuration Debug for project FirstProject ****
+make all 
+Building file: ../HelloWorld.cpp
+Invoking: Cygwin C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"HelloWorld.d" -MT"HelloWorld.o" -o "HelloWorld.o" "../HelloWorld.cpp"
+../HelloWorld.cpp:7:7: error: expected nested-name-specifier before 'namesapce'
+ using namesapce std;
+       ^~~~~~~~~
+../HelloWorld.cpp: In function 'int main()':
+../HelloWorld.cpp:11:2: error: 'cout' was not declared in this scope
+  cout<<"helloWorld"<<endl;
+  ^~~~
+../HelloWorld.cpp:11:2: note: suggested alternative:
+In file included from ../HelloWorld.cpp:6:0:
+/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++/iostream:61:18: note:   'std::cout'
+   extern ostream cout;  /// Linked to standard output
+                  ^~~~
+../HelloWorld.cpp:11:22: error: 'endl' was not declared in this scope
+  cout<<"helloWorld"<<endl;
+                      ^~~~
+../HelloWorld.cpp:11:22: note: suggested alternative:
+In file included from /usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++/iostream:39:0,
+                 from ../HelloWorld.cpp:6:
+/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++/ostream:590:5: note:   'std::endl'
+     endl(basic_ostream<_CharT, _Traits>& __os)
+     ^~~~
+make: *** [subdir.mk:20: HelloWorld.o] Error 1

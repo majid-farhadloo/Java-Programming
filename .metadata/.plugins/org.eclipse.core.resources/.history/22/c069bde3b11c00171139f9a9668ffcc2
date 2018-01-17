@@ -1,0 +1,159 @@
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.ArrayList;
+import java.util.Scanner;
+
+//linkList2.java
+//demonstrates linked list
+//to run this program: C>java LinkList2App
+////////////////////////////////////////////////////////////////
+class Link
+{
+	public Question question;
+	public Link next;              // next link in list
+	//-------------------------------------------------------------
+	public Link(Question q) // constructor
+	{
+		question = q;
+	}
+	//-------------------------------------------------------------
+	public void displayLink()      // display ourself
+	{
+		System.out.print(question);
+	}
+}  // end class Link
+////////////////////////////////////////////////////////////////
+class LinkList
+{
+	private Link first;            // ref to first link on list
+
+	//-------------------------------------------------------------
+	public LinkList()              // constructor
+	{
+		first = null;               // no links on list yet
+	}
+	//-------------------------------------------------------------
+	public void insertFirst(Question q)
+	{                           // make new link
+		Link newLink = new Link(q);
+		newLink.next = first;       // it points to old first link
+		first = newLink;            // now first points to this
+	}
+	//-------------------------------------------------------------
+	public Link find(String key)      // find link with given key
+	{                           // (assumes non-empty list)
+		Link current = first;              // start at 'first'
+		while(!current.question.getQuestion().equals(key))       // while no match,
+		{
+			if(current.next == null)        // if end of list,
+				return null;                 // didn't find it
+			else                            // not end of list,
+				current = current.next;      // go to next link
+		}
+		return current;                    // found it
+	}
+	//-------------------------------------------------------------
+	public Link delete(String key)    // delete link with given key
+	{                           // (assumes non-empty list)
+		Link current = first;              // search for link
+		Link previous = first;
+		while(!current.question.getQuestion().equals(key))
+		{
+			if(current.next == null)
+				return null;                 // didn't find it
+			else
+			{
+				previous = current;          // go to next link
+				current = current.next;
+			}
+		}                               // found it
+		if(current == first)               // if first link,
+			first = first.next;             //    change first
+		else                               // otherwise,
+			previous.next = current.next;   //    bypass it
+		return current;
+	}
+	//-------------------------------------------------------------
+	public void displayList()      // display the list
+	{
+		System.out.print("List (first-->last): ");
+		Link current = first;       // start at beginning of list
+		while(current != null)      // until end of list,
+		{
+			current.displayLink();   // print data
+			current = current.next;  // move to next link
+		}
+		System.out.println("");
+	}
+	//-------------------------------------------------------------
+	public String insertFirst(String string, ArrayList<String> answers) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+}  // end class LinkList
+////////////////////////////////////////////////////////////////
+class QuestionTest
+{
+	public static void main(String[] args)
+	{
+		LinkList answerAndQuestion = new LinkList();
+		String [] answers = new String[4];
+		Question question;
+		//LinkList question = new LinkList();  // make list
+		Scanner inputStream = null;
+		try {
+			inputStream = new Scanner(new File("QuestionsAndAnswers(1).txt"));
+		} 
+		catch (FileNotFoundException e) {
+
+			System.out.println("Error opening the file carMPG.txt");
+			System.exit(40);
+		}
+		//arrayOfAnswers = null;
+		//String[] arrayOfQuestions = null;
+		String q = null;
+		while(inputStream.hasNext()){
+			//String questions = question.insertFirst((inputStream.nextLine()));
+			q = inputStream.nextLine();
+			//question.insertFirst(questions);
+			String newAnswers = null;
+			int i = 0;
+			do{
+				newAnswers = inputStream.nextLine();
+				//String[] arrayOfAnswers = newAnswers.split(",");
+				answers[i] = newAnswers;
+				i++;
+			}while(i<4);
+			question = new Question(q, answers);
+			answerAndQuestion.insertFirst(question);
+		}
+		answerAndQuestion.displayList();              // display list
+
+		//System.out.println(newCar);
+		//theList(index++) = list;
+	}
+//	String[] answers = {"good", "fine", "terrible", "bad"};
+
+	//question.insertFirst(new Question("how are you?", answers));      // insert 4 items
+	//theList.insertFirst(44, 4.99);
+	//theList.insertFirst(66, 6.99);
+	//theList.insertFirst(88, 8.99);
+	//
+	/*
+		Link f = theList.find(44);          // find item
+		if( f != null)
+			System.out.println("Found link with key " + f.iData);
+		else
+			System.out.println("Can't find link");
+
+		Link d = theList.delete(66);        // delete item
+		if( d != null )
+			System.out.println("Deleted link with key " + d.iData);
+		else
+			System.out.println("Can't delete link");
+
+		theList.displayList();              // display list
+	 */
+}  // end main()
+// end class LinkList2App
+////////////////////////////////////////////////////////////////

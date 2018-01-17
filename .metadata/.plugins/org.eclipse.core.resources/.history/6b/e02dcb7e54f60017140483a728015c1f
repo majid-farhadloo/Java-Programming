@@ -1,0 +1,42 @@
+
+public class MyIntegerTest {
+	@SuppressWarnings("unused")
+	public static void main(String[] args) {
+		MyInteger value = new MyInteger(2);
+		MyInteger value1 = new MyInteger(2);
+		boolean val = value.isPrime();
+		boolean odd = value.isOdd();
+		boolean even = value.isEven();
+		boolean odd1 = isEven(5);
+		boolean even1 = MyInteger.isOdd(5);
+		boolean prime = MyInteger.isPrime(23);
+		int string = MyInteger.parseInt("123400");
+		char[] numberOne = {'1','9'};
+		double character = parseInt(numberOne);
+		boolean equality = MyInteger.equals(2);
+		System.out.println(" show the" + value +  "is prime or not : " + val + " \n if it is odd true otherwise not : " + odd + 
+				"\n if it is even true otherwise is not : " + even + "\n change the String to int : " + string);
+		System.out.println(" show the number is prime or not : " + prime + " \n if it is odd true otherwise not : " + odd1 + 
+				"\n if it is even true otherwise is not : " + even1 + 
+				" changing the number from the character to numeric integer : " + character
+				+ "\n check the number is equal or not, if yes true, otherwise false : " + equality);
+	}
+	
+	
+	public static boolean isEven(int val){
+		if(val%2==0){
+			return true;
+		}
+		return false;
+	}
+	public static int parseInt(char[] numChar){
+		int value  = 0;
+		for(int i = 0; i<numChar.length;i++){
+			value = numChar[i] - 48;
+		}
+		return value;
+	}
+}
+
+
+

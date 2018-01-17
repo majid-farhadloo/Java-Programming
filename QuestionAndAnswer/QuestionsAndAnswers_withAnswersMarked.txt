@@ -1,0 +1,125 @@
+A single programmer can, on average, write, test, and document only ____ lines of code per day.
+10
+15
+*20
+25
+The first widely used, standardized procedural computer language was ____.
+Java
+C
+*Fortran
+C++
+A computer program is typically stored as a file and transferred into ____ when needed.
+*RAM
+ROM
+RUM
+REM
+____ refers to the process of hiding the internal details of objects and their methods.
+*Encapsulation
+Polymorphism
+Inheritance
+None of the Above
+When high-level languages were originally conceived in the 1950s, they were dubbed ____-generation languages.
+first
+second
+*third
+fourth
+In addition to buffer overflows, hackers can use ____ to find vulnerabilities.
+*verbose error messages
+variable typing
+code reuse
+all of the above
+In gaming programming, explosions, flares, and fairy dust are accomplished by a(n) ____.
+special effects renderer
+*particle renderer
+pathfinder renderer
+animation renderer
+A collection of language-specific programming tools that enable a programmer to develop applications for a specific computer platform is a(n) ____.
+*SDK
+IDK
+API
+LPT
+Assembly languages are considered ____-generation languages.
+first
+*second
+third
+fourth
+Software specially designed for entering code for computer programs is a ____.
+text editor
+*program editor
+code editor
+VDE
+Microsoft’s ____ technology uses Internet Explorer as the verification client.
+code wrapping
+*Authenticate
+VeriSign
+DigiSign
+The Inventor of the Internet, so called because (s)he created html is ____.
+Al Gore
+*Tim Berners-Lee
+Hillary Clinton
+Bill Gates
+The program that has input of the source code and outputs a file that can be run on a computer is called a ______.
+executer
+play station
+computer programming unit
+*compiler
+____ help(s) programmers apply rigorous logical and mathematical models to software design.
+Threat modeling
+Secure Programming
+*Formal Methods
+all of the above
+One of the first exploits to take advantage of buffer overflows was the ____.
+love virus
+Michelangelo virus
+*Morris worm
+Phillip worm
+Object-oriented languages that are popular today include all of the following EXCEPT ____.
+Ada
+C++
+C#
+*Pascal
+A(n) ____ paradigm is based on the idea that the solution for a program can be visualized in terms of objects that interact with each other.
+procedural
+*object-oriented
+objective
+declarative
+The language that offers little protection from buffer overflows is ____.
+*C++
+Java
+C#
+Pascal
+The first computers were programmed using ____.
+low-level languages
+high-level languages
+*circuits
+assenbler language
+____ is an informal high-level description of the operating principle of a computer program or other algorithm.
+*Psuedocode
+Structured English
+Sub English
+Sub code
+The traditional approach to programming uses a(n) ____ paradigm.
+*procedural
+programming
+multi-paradigm
+object-oriented
+Among the steps you can take to avoid security problems is ____.
+use freeware
+be selective of the patches you choose to apply
+*keep your firewall deployed
+all of the above
+A(n) ____ is a unit of data that represents an abstraction or a real-world entity such as person, place, or thing.
+class
+*object
+attribute
+variable
+A method is activated by a message which is included as a line of program code also referred to as a(n) ____.
+get
+fetch
+*call
+include
+During ____ execution, the first instruction in the program is executed first, followed by the second.
+control
+*sequential
+straight-line
+functional

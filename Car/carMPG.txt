@@ -1,0 +1,722 @@
+29.5 Honda Acura NSX 
+34.7 FCA US LLC ALFA ROMEO 4C 
+18.3 aston martin Aston Martin Lagonda Ltd V12 Vantage S 
+15.5 aston martin Aston Martin Lagonda Ltd V12 Vantage S 
+21.2 Volkswagen Group of Audi R8 
+21.2 Volkswagen Group of Audi R8 Spyder 
+33.5 Volkswagen Group of Audi TT Roadster quattro 
+24.2 General Motors Chevrolet CORVETTE 
+20.6 General Motors Chevrolet CORVETTE 
+24.9 General Motors Chevrolet CORVETTE 
+22.8 General Motors Chevrolet CORVETTE 
+17.8 FCA US LLC Dodge Viper 
+22.9 Ferrari "Ferrari North America  Inc." 488 gtb 
+23.1 Ferrari "Ferrari North America  Inc." 488 gtb 
+22.9 Ferrari "Ferrari North America  Inc." 488 Spider 
+23.1 Ferrari "Ferrari North America  Inc." 488 Spider 
+16.7 Ferrari "Ferrari North America  Inc." F12 Berlinetta 
+17.0 Ferrari "Ferrari North America  Inc." F12 Berlinetta 
+15.8 Ferrari "Ferrari North America  Inc." F12 tdf 
+16.1 Ferrari "Ferrari North America  Inc." F12 tdf 
+16.5 Ferrari "Ferrari North America  Inc." LaFerrari Aperta 
+39.9 FCA US LLC FIAT 124 Spider 
+40.5 FCA US LLC FIAT 124 Spider 
+30.1 Jaguar Land Rover L Jaguar F-TYPE Convertible 
+24.3 Jaguar Land Rover L Jaguar F-TYPE Convertible Manual 
+30.1 Jaguar Land Rover L Jaguar F-TYPE Coupe 
+24.3 Jaguar Land Rover L Jaguar F-TYPE Coupe Manual 
+22.7 Jaguar Land Rover L Jaguar F-TYPE R AWD Convertible 
+22.7 Jaguar Land Rover L Jaguar F-TYPE R AWD Coupe 
+27.4 Jaguar Land Rover L Jaguar F-TYPE S AWD Convertible 
+27.4 Jaguar Land Rover L Jaguar F-TYPE S AWD Coupe 
+28.8 Jaguar Land Rover L Jaguar F-TYPE S Convertible 
+23.7 Jaguar Land Rover L Jaguar F-TYPE S Convertible Manual 
+28.8 Jaguar Land Rover L Jaguar F-TYPE S Coupe 
+23.7 Jaguar Land Rover L Jaguar F-TYPE S Coupe Manual 
+16.4 Volkswagen Group of Lamborghini Aventador Coupe 
+15.0 Volkswagen Group of Lamborghini Aventador Coupe LP740-4 
+15.8 Volkswagen Group of Lamborghini Aventador Roadster 
+15.0 Volkswagen Group of Lamborghini Aventador Roadster LP740-4 
+20.8 Volkswagen Group of Lamborghini Huracan 
+20.8 Volkswagen Group of Lamborghini Huracan 2WD 
+20.4 Volkswagen Group of Lamborghini Huracan Spyder 
+20.4 Volkswagen Group of Lamborghini Huracan Spyder 2WD 
+40.1 MAZDA MAZDA MX-5 
+40.4 MAZDA MAZDA MX-5 
+24.0 McLaren Automotive  McLaren 570GT 
+24.0 McLaren Automotive  McLaren 570S Coupe 
+23.9 Mercedes-Benz Mercedes-Benz AMG GT 
+23.9 Mercedes-Benz Mercedes-Benz AMG GT S 
+24.1 Mercedes-Benz Mercedes-Benz AMG SL 63 
+21.0 Mercedes-Benz Mercedes-Benz AMG SL 65 
+31.1 Mercedes-Benz Mercedes-Benz AMG SLC 43 
+30.7 Mercedes-Benz Mercedes-Benz SL 450 
+26.2 Mercedes-Benz Mercedes-Benz SL 550 
+37.2 Mercedes-Benz Mercedes-Benz SLC 300 
+49.5 Mercedes-Benz Mercedes-Benz Smart fortwo (Convertible) 
+48.0 Mercedes-Benz Mercedes-Benz Smart fortwo (Convertible) 
+50.5 Mercedes-Benz Mercedes-Benz Smart fortwo (COUPE) 
+48.2 Mercedes-Benz Mercedes-Benz Smart fortwo (COUPE) 
+28.6 Nissan NISSAN 370Z 
+27.4 Nissan NISSAN 370Z 
+27.0 Nissan NISSAN 370Z Roadster 
+26.1 Nissan NISSAN 370Z Roadster 
+33.6 Porsche Porsche Boxster 
+32.0 Porsche Porsche Boxster 
+31.8 Porsche Porsche Boxster S 
+29.1 Porsche Porsche Boxster S 
+20.6 aston martin Aston Martin Lagonda Ltd "Vanquish  S and Zagato" 
+23.5 Ferrari "Ferrari North America  Inc." California T 
+24.0 Ferrari "Ferrari North America  Inc." California T 
+16.6 Ferrari "Ferrari North America  Inc." GTC4Lusso 
+17.0 Ferrari "Ferrari North America  Inc." GTC4Lusso 
+46.9 FCA US LLC FIAT 500 
+36.7 FCA US LLC FIAT 500 
+46.7 FCA US LLC FIAT 500 
+40.8 FCA US LLC FIAT 500 
+36.7 FCA US LLC FIAT 500 Abarth 
+40.8 FCA US LLC FIAT 500 Abarth 
+25.2 Lotus Lotus Cars Ltd Evora 
+24.1 Lotus Lotus Cars Ltd Evora 
+37.0 BMW Mini JOHN COOPER WORKS CONVERTIBLE 
+34.0 BMW Mini JOHN COOPER WORKS CONVERTIBLE 
+41.2 BMW Mini MINI COOPER CONVERTIBLE 
+43.4 BMW Mini MINI COOPER CONVERTIBLE 
+38.3 BMW Mini Mini Cooper S Convertible 
+35.4 BMW Mini Mini Cooper S Convertible 
+33.4 Porsche Porsche 911 Carrera 
+30.8 Porsche Porsche 911 Carrera 
+32.7 Porsche Porsche 911 Carrera 4 
+30.1 Porsche Porsche 911 Carrera 4 
+32.0 Porsche Porsche 911 Carrera 4 Cabriolet 
+29.6 Porsche Porsche 911 Carrera 4 Cabriolet 
+29.3 Porsche Porsche 911 Carrera 4 GTS 
+28.1 Porsche Porsche 911 Carrera 4 GTS 
+29.1 Porsche Porsche 911 Carrera 4 GTS Cabriolet 
+27.7 Porsche Porsche 911 Carrera 4 GTS Cabriolet 
+31.6 Porsche Porsche 911 Carrera 4S 
+29.9 Porsche Porsche 911 Carrera 4S 
+31.8 Porsche Porsche 911 Carrera 4S Cabriolet 
+29.5 Porsche Porsche 911 Carrera 4S Cabriolet 
+32.4 Porsche Porsche 911 Carrera Cabriolet 
+30.2 Porsche Porsche 911 Carrera Cabriolet 
+30.0 Porsche Porsche 911 Carrera GTS 
+27.7 Porsche Porsche 911 Carrera GTS 
+29.3 Porsche Porsche 911 Carrera GTS Cabriolet 
+28.0 Porsche Porsche 911 Carrera GTS Cabriolet 
+32.6 Porsche Porsche 911 Carrera S 
+30.1 Porsche Porsche 911 Carrera S 
+32.3 Porsche Porsche 911 Carrera S Cabriolet 
+30.0 Porsche Porsche 911 Carrera S Cabriolet 
+32.2 Porsche Porsche 911 Targa 4 
+29.6 Porsche Porsche 911 Targa 4 
+28.9 Porsche Porsche 911 Targa 4 GTS 
+27.1 Porsche Porsche 911 Targa 4 GTS 
+31.4 Porsche Porsche 911 Targa 4S 
+29.5 Porsche Porsche 911 Targa 4S 
+27.2 Porsche Porsche 911 Turbo 
+27.2 Porsche Porsche 911 Turbo Cabriolet 
+27.2 Porsche Porsche 911 Turbo S 
+27.2 Porsche Porsche 911 Turbo S Cabriolet 
+36.9 Subaru Subaru BRZ 
+31.9 Subaru Subaru BRZ 
+36.9 Toyota TOYOTA 86 
+32.0 Toyota TOYOTA 86 
+21.5 aston martin Aston Martin Lagonda Ltd Rapide S 
+38.7 Volkswagen Group of Audi A3 
+38.0 Volkswagen Group of Audi A3 Cabriolet 
+32.0 Volkswagen Group of Audi A3 Cabriolet quattro 
+36.4 Volkswagen Group of Audi A3 quattro 
+31.4 Volkswagen Group of Audi A5 Cabriolet quattro 
+32.7 Volkswagen Group of Audi A5 quattro 
+33.7 Volkswagen Group of Audi A5 quattro 
+30.1 Volkswagen Group of Audi S3 
+26.9 Volkswagen Group of Audi S5 
+24.4 Volkswagen Group of Audi S5 
+26.4 Volkswagen Group of Audi S5 Cabriolet 
+33.5 Volkswagen Group of Audi TT Coupe quattro 
+31.9 Volkswagen Group of Audi TTS Coupe 
+21.8 Volkswagen Group of Bentley Continental GT Convertible 
+18.3 Volkswagen Group of Bentley Continental GT Convertible 
+36.8 BMW BMW 230i Convertible 
+37.6 BMW BMW 230i Coupe 
+32.9 BMW BMW 230i Coupe 
+35.6 BMW BMW 230i xDrive Convertible 
+36.6 BMW BMW 230i xDrive Coupe 
+36.8 BMW BMW 430i Convertible 
+34.6 BMW BMW 430i xDrive Convertible 
+31.7 BMW BMW 440i Convertible 
+31.5 BMW BMW 440i xDrive Convertible 
+31.0 BMW BMW 640i Convertible 
+31.9 BMW BMW 640i Coupe 
+29.6 BMW BMW 640i xDrive Convertible 
+29.6 BMW BMW 640i xDrive Coupe 
+25.7 BMW BMW 650i Convertible 
+25.7 BMW BMW 650i Coupe 
+23.8 BMW BMW 650i xDrive Convertible 
+24.7 BMW BMW 650i xDrive Coupe 
+29.7 BMW BMW M2 
+27.1 BMW BMW M2 
+33.5 BMW BMW M240i Convertible 
+29.9 BMW BMW M240i Convertible 
+33.5 BMW BMW M240i Coupe 
+29.1 BMW BMW M240i Coupe 
+33.2 BMW BMW M240i xDrive Convertible 
+33.2 BMW BMW M240i xDrive Coupe 
+25.4 BMW BMW M4 Convertible 
+26.4 BMW BMW M4 Convertible 
+20.6 BMW BMW M6 Convertible 
+22.1 BMW BMW M6 Convertible 
+20.6 BMW BMW M6 Coupe 
+22.1 BMW BMW M6 Coupe 
+29.9 General Motors Buick CASCADA 
+33.2 General Motors Chevrolet CAMARO 
+30.9 General Motors Chevrolet CAMARO 
+29.5 General Motors Chevrolet CAMARO 
+25.7 General Motors Chevrolet CAMARO 
+26.4 General Motors Chevrolet CAMARO 
+25.1 General Motors Chevrolet CAMARO 
+20.5 General Motors Chevrolet CAMARO 
+45.9 General Motors Chevrolet SPARK 
+45.4 General Motors Chevrolet SPARK 
+45.9 General Motors Chevrolet SPARK ACTIV 
+45.4 General Motors Chevrolet SPARK ACTIV 
+42.7 Ford Motor Company Ford Fiesta FWD 
+41.6 Ford Motor Company Ford Fiesta FWD 
+48.6 Ford Motor Company Ford Fiesta SFE FWD 
+32.9 Ford Motor Company Ford MUSTANG 
+33.5 Ford Motor Company Ford MUSTANG 
+28.4 Ford Motor Company Ford MUSTANG 
+27.2 Ford Motor Company Ford MUSTANG 
+24.5 Ford Motor Company Ford MUSTANG 
+23.7 Ford Motor Company Ford MUSTANG 
+31.2 Ford Motor Company Ford MUSTANG CONVERTIBLE 
+33.5 Ford Motor Company Ford MUSTANG CONVERTIBLE 
+23.5 Ford Motor Company Ford MUSTANG CONVERTIBLE 
+23.7 Ford Motor Company Ford MUSTANG CONVERTIBLE 
+32.9 Ford Motor Company Ford MUSTANG PERFORMANCE PACKAGE 
+33.5 Ford Motor Company Ford MUSTANG PERFORMANCE PACKAGE 
+23.7 Ford Motor Company Ford MUSTANG PERFORMANCE PACKAGE 
+20.8 Ford Motor Company Ford SHELBY GT350 MUSTANG 
+34.7 Nissan INFINITI Q60 
+29.7 Nissan INFINITI Q60 
+31.9 Nissan INFINITI Q60 AWD 
+29.0 Nissan INFINITI Q60 AWD 
+28.2 Nissan INFINITI Q60S AWD RED SPORT 
+29.6 Nissan INFINITI Q60S RED SPORT 
+34.6 Toyota LEXUS RC 200t 
+28.2 Toyota LEXUS RC 300 AWD 
+29.3 Toyota LEXUS RC 350 
+28.2 Toyota LEXUS RC 350 AWD 
+25.6 Toyota LEXUS RC F 
+19.9 Maserati MASERATI GRANTURISMO 
+19.9 Maserati MASERATI GRANTURISMO CONVERTIBLE 
+28.7 Mercedes-Benz Mercedes-Benz AMG C 43 4MATIC  (convertible) 
+30.3 Mercedes-Benz Mercedes-Benz AMG C 43 4MATIC (coupe) 
+24.7 Mercedes-Benz Mercedes-Benz AMG C 63 (convertible) 
+25.4 Mercedes-Benz Mercedes-Benz AMG C 63 (coupe) 
+24.7 Mercedes-Benz Mercedes-Benz AMG C 63 S (convertible) 
+25.4 Mercedes-Benz Mercedes-Benz AMG C 63 S (coupe) 
+22.1 Mercedes-Benz Mercedes-Benz AMG S 63 4MATIC (convertible) 
+34.8 Mercedes-Benz Mercedes-Benz C 300 (convertible) 
+34.3 Mercedes-Benz Mercedes-Benz C 300 (Coupe) 
+32.9 Mercedes-Benz Mercedes-Benz C 300 4MATIC  (convertible) 
+33.6 Mercedes-Benz Mercedes-Benz C 300 4MATIC (Coupe) 
+31.2 Mercedes-Benz Mercedes-Benz E 400 (convertible) 
+31.1 Mercedes-Benz Mercedes-Benz E 400 (coupe) 
+30.3 Mercedes-Benz Mercedes-Benz E 400 4MATIC (coupe) 
+26.4 Mercedes-Benz Mercedes-Benz E 550 (convertible) 
+27.1 Mercedes-Benz Mercedes-Benz E 550 (coupe) 
+26.0 Mercedes-Benz Mercedes-Benz S 550 (convertible) 
+20.6 Mercedes-Benz Mercedes-Benz S 65 AMG (convertible) 
+38.3 BMW Mini JOHN COOPER WORKS HARDTOP 
+35.4 BMW Mini JOHN COOPER WORKS HARDTOP 
+41.2 BMW Mini MINI COOPER HARDTOP 2 DOOR 
+43.3 BMW Mini MINI COOPER HARDTOP 2 DOOR 
+41.2 BMW Mini MINI COOPER HARDTOP 4 DOOR 
+43.4 BMW Mini MINI COOPER HARDTOP 4 DOOR 
+38.3 BMW Mini Mini Cooper S Hardtop 2 door 
+35.4 BMW Mini Mini Cooper S Hardtop 2 door 
+38.3 BMW Mini Mini Cooper S Hardtop 4 door 
+35.4 BMW Mini Mini Cooper S Hardtop 4 door 
+23.6 Nissan NISSAN GT-R 
+21.6 Roush "Roush Industries  Inc." Roush Stage 3 Mustang 
+19.9 Roush "Roush Industries  Inc." Roush Stage 3 Mustang 
+49.7 Toyota TOYOTA YARIS iA 
+47.9 Toyota TOYOTA YARIS iA 
+37.0 Volkswagen Group of Volkswagen Beetle Convertible 
+35.9 Volkswagen Group of Volkswagen Beetle Dune Convertible 
+39.0 Honda Acura ILX 
+33.4 Honda Acura TLX AWD 
+38.6 Honda Acura TLX FWD 
+35.0 Honda Acura TLX FWD 
+37.3 Volkswagen Group of Audi A4 
+36.2 Volkswagen Group of Audi A4 quattro 
+34.9 Volkswagen Group of Audi A4 quattro 
+41.1 Volkswagen Group of Audi A4 Ultra 
+30.0 Volkswagen Group of Audi Q3 
+29.5 Volkswagen Group of Audi Q3 quattro 
+23.7 Volkswagen Group of Bentley Continental GT 
+19.5 Volkswagen Group of Bentley Continental GT 
+37.1 BMW BMW 320i 
+36.8 BMW BMW 320i 
+36.0 BMW BMW 320i xDrive 
+49.9 BMW BMW 328d 
+46.5 BMW BMW 328d xDrive 
+36.8 BMW BMW 330i 
+32.9 BMW BMW 330i 
+35.6 BMW BMW 330i xDrive 
+33.5 BMW BMW 340i 
+29.9 BMW BMW 340i 
+33.2 BMW BMW 340i xDrive 
+30.1 BMW BMW 340i xDrive 
+36.8 BMW BMW 430i Coupe 
+33.8 BMW BMW 430i Coupe 
+36.8 BMW BMW 430i Gran Coupe 
+35.6 BMW BMW 430i xDrive Coupe 
+35.6 BMW BMW 430i xDrive Gran Coupe 
+33.5 BMW BMW 440i Coupe 
+29.9 BMW BMW 440i Coupe 
+33.5 BMW BMW 440i Gran Coupe 
+33.2 BMW BMW 440i xDrive Coupe 
+30.1 BMW BMW 440i xDrive Coupe 
+33.2 BMW BMW 440i xDrive Gran Coupe 
+31.0 BMW BMW 640i Gran Coupe 
+29.6 BMW BMW 640i xDrive Gran Coupe 
+25.7 BMW BMW 650i Gran Coupe 
+23.8 BMW BMW 650i xDrive Gran Coupe 
+23.8 BMW BMW Alpina B6 xDrive Gran Coupe 
+25.3 BMW BMW M3 
+26.4 BMW BMW M3 
+25.3 BMW BMW M4 Coupe 
+26.4 BMW BMW M4 Coupe 
+20.6 BMW BMW M6 Gran Coupe 
+22.1 BMW BMW M6 Gran Coupe 
+32.5 General Motors Buick VERANO 
+34.0 General Motors Cadillac ATS 
+30.9 General Motors Cadillac ATS 
+34.2 General Motors Cadillac ATS 
+31.4 General Motors Cadillac ATS 
+33.0 General Motors Cadillac ATS AWD 
+29.4 General Motors Cadillac ATS AWD 
+25.9 General Motors Cadillac ATS-V 
+24.4 General Motors Cadillac ATS-V 
+47.3 General Motors Chevrolet CRUZE 
+45.5 General Motors Chevrolet CRUZE 
+47.3 General Motors Chevrolet CRUZE HATCHBACK 
+45.5 General Motors Chevrolet CRUZE HATCHBACK 
+46.9 General Motors Chevrolet CRUZE PREMIER 
+46.9 General Motors Chevrolet CRUZE PREMIER HATCHBACK 
+42.7 General Motors Chevrolet SONIC 
+45.2 General Motors Chevrolet SONIC 
+39.3 General Motors Chevrolet SONIC 
+40.1 General Motors Chevrolet SONIC 
+39.6 Ford Motor Company Ford Fiesta ST FWD 
+43.4 Ford Motor Company Ford FOCUS FWD 
+47.3 Ford Motor Company Ford FOCUS FWD 
+42.1 Ford Motor Company Ford FOCUS FWD 
+39.8 Ford Motor Company Ford FOCUS FWD 
+38.3 Ford Motor Company Ford FOCUS FWD 
+42.1 Ford Motor Company Ford Focus FWD FFV 
+39.8 Ford Motor Company Ford Focus FWD FFV 
+38.3 Ford Motor Company Ford Focus FWD FFV 
+47.6 Honda Honda CIVIC 2Dr 
+46.1 Honda Honda CIVIC 2Dr 
+46.8 Honda Honda CIVIC 2Dr 
+41.6 Honda Honda CIVIC 2Dr 
+41.0 Hyundai HYUNDAI MOTOR COMPANY Accent 
+42.7 Hyundai HYUNDAI MOTOR COMPANY Accent 
+43.2 Hyundai HYUNDAI MOTOR COMPANY Veloster 
+39.5 Hyundai HYUNDAI MOTOR COMPANY Veloster 
+40.7 Hyundai HYUNDAI MOTOR COMPANY Veloster 
+38.2 Hyundai HYUNDAI MOTOR COMPANY Veloster 
+39.4 Nissan INFINITI Q50 HYBRID 
+37.6 Nissan INFINITI Q50 HYBRID AWD 
+37.1 Nissan INFINITI QX30 
+32.7 Nissan INFINITI QX30 AWD 
+50.3 Jaguar Land Rover L Jaguar XE 
+32.0 Jaguar Land Rover L Jaguar XE 
+31.9 Jaguar Land Rover L Jaguar XE 
+47.3 Jaguar Land Rover L Jaguar XE AWD 
+30.7 Jaguar Land Rover L Jaguar XE AWD 
+36.9 Kia KIA MOTORS CORPORATION Forte Koup 
+34.8 Kia KIA MOTORS CORPORATION Forte Koup 
+38.3 Kia KIA MOTORS CORPORATION Forte Koup 
+41.3 Kia KIA MOTORS CORPORATION Rio 
+41.9 Kia KIA MOTORS CORPORATION Rio 
+42.0 Kia KIA MOTORS CORPORATION Rio ECO 
+58.1 Toyota LEXUS CT 200h 
+24.1 Toyota LEXUS GS F 
+34.6 Toyota LEXUS IS 200t 
+28.2 Toyota LEXUS IS 300 AWD 
+29.3 Toyota LEXUS IS 350 
+28.2 Toyota LEXUS IS 350 AWD 
+43.1 MAZDA MAZDA CX-3 2WD 
+39.4 MAZDA MAZDA CX-3 4WD 
+49.1 MAZDA MAZDA MAZDA2 
+47.5 MAZDA MAZDA MAZDA2 
+43.9 MAZDA MAZDA MAZDA3 4-Door 
+43.2 MAZDA MAZDA MAZDA3 4-Door 
+41.3 MAZDA MAZDA MAZDA3 4-Door 
+42.8 MAZDA MAZDA MAZDA3 4-Door 
+38.8 MAZDA MAZDA MAZDA3 4-Door 
+30.9 Mercedes-Benz Mercedes-Benz AMG C 43 4MATIC 
+27.1 Mercedes-Benz Mercedes-Benz AMG C 63 
+26.4 Mercedes-Benz Mercedes-Benz AMG C 63 S 
+34.5 Mercedes-Benz Mercedes-Benz AMG CLA 45 4MATIC 
+23.3 Mercedes-Benz Mercedes-Benz AMG CLS 63 S 4MATIC 
+23.5 Mercedes-Benz Mercedes-Benz AMG S 63 4MATIC (coupe) 
+37.7 Mercedes-Benz Mercedes-Benz C 300 
+36.0 Mercedes-Benz Mercedes-Benz C 300 4MATIC 
+38.8 Mercedes-Benz Mercedes-Benz CLA 250 
+35.8 Mercedes-Benz Mercedes-Benz CLA 250 4MATIC 
+35.8 Mercedes-Benz Mercedes-Benz CLA 250 4MATIC 
+27.6 Mercedes-Benz Mercedes-Benz CLS 550 
+26.3 Mercedes-Benz Mercedes-Benz CLS 550 4MATIC 
+26.1 Mercedes-Benz Mercedes-Benz S 550 4MATIC (coupe) 
+20.3 Mercedes-Benz Mercedes-Benz S 65 AMG (coupe) 
+40.9 Mitsubishi Motors Co Mitsubishi Motors Corporation LANCER 
+37.4 Mitsubishi Motors Co Mitsubishi Motors Corporation LANCER 
+34.3 Mitsubishi Motors Co Mitsubishi Motors Corporation LANCER 4WD 
+56.1 Mitsubishi Motors Co Mitsubishi Motors Corporation MIRAGE 
+50.9 Mitsubishi Motors Co Mitsubishi Motors Corporation MIRAGE 
+52.9 Mitsubishi Motors Co Mitsubishi Motors Corporation MIRAGE G4 
+49.8 Mitsubishi Motors Co Mitsubishi Motors Corporation MIRAGE G4 
+40.2 Nissan NISSAN VERSA 
+47.7 Nissan NISSAN VERSA 
+42.3 Nissan NISSAN VERSA 
+18.0 Rolls-Royce Rolls-Royce Motor Cars Limited Dawn 
+17.6 Rolls-Royce Rolls-Royce Motor Cars Limited Phantom Coupe 
+17.6 Rolls-Royce Rolls-Royce Motor Cars Limited Phantom Drophead Coupe 
+26.8 Subaru Subaru WRX 
+30.3 Subaru Subaru WRX 
+25.1 Subaru Subaru WRX 
+44.2 Toyota TOYOTA YARIS 
+45.5 Toyota TOYOTA YARIS 
+37.0 Volkswagen Group of Volkswagen Beetle 
+34.1 Volkswagen Group of Volkswagen Beetle 
+35.9 Volkswagen Group of Volkswagen Beetle Dune 
+32.3 Volkswagen Group of Volkswagen CC 
+24.8 Volkswagen Group of Volkswagen CC 4Motion 
+38.9 Volkswagen Group of Volkswagen Golf 
+39.3 Volkswagen Group of Volkswagen Golf 
+32.6 Volkswagen Group of Volkswagen Golf R 
+31.2 Volkswagen Group of Volkswagen Golf R 
+35.9 Volkswagen Group of Volkswagen GTI 
+35.2 Volkswagen Group of Volkswagen GTI 
+43.2 Volkswagen Group of Volkswagen Jetta 
+44.8 Volkswagen Group of Volkswagen Jetta 
+38.7 Volkswagen Group of Volkswagen Jetta 
+36.4 Volkswagen Group of Volkswagen Jetta 
+34.7 Volkswagen Group of Volkswagen Jetta 
+34.4 Volvo "Volvo Cars of North America  LLC" S60 AWD 
+34.2 Volvo "Volvo Cars of North America  LLC" S60 AWD 
+33.2 Volvo "Volvo Cars of North America  LLC" S60 CC AWD 
+39.7 Volvo "Volvo Cars of North America  LLC" S60 FWD 
+34.4 Volvo "Volvo Cars of North America  LLC" S60 Inscription AWD 
+39.7 Volvo "Volvo Cars of North America  LLC" S60 Inscription FWD 
+30.0 Volvo "Volvo Cars of North America  LLC" S60 Polestar AWD 
+41.1 Honda Acura RLX 
+31.1 Honda Acura RLX 
+25.8 FCA US LLC ALFA ROMEO Giulia 
+37.5 Volkswagen Group of Audi A6 
+33.2 Volkswagen Group of Audi A6 quattro 
+31.1 Volkswagen Group of Audi A6 quattro 
+31.1 Volkswagen Group of Audi A7 quattro 
+22.6 Volkswagen Group of Audi RS7 
+26.4 Volkswagen Group of Audi S6 
+26.8 Volkswagen Group of Audi S7 
+22.5 Volkswagen Group of Audi S8 
+21.8 Volkswagen Group of Bentley Flying Spur 
+18.3 Volkswagen Group of Bentley Flying Spur 
+17.3 Volkswagen Group of Bentley Mulsanne 
+16.2 Volkswagen Group of Bentley Mulsanne EWB 
+32.9 General Motors Buick LACROSSE 
+31.2 General Motors Buick LACROSSE AWD 
+31.6 General Motors Buick REGAL 
+30.6 General Motors Buick REGAL 
+29.2 General Motors Buick REGAL AWD 
+33.1 General Motors Cadillac CTS 
+31.4 General Motors Cadillac CTS 
+24.0 General Motors Cadillac CTS 
+33.0 General Motors Cadillac CTS AWD 
+29.4 General Motors Cadillac CTS AWD 
+21.7 General Motors Cadillac CTS-V 
+41.4 General Motors Chevrolet MALIBU 
+64.8 General Motors Chevrolet MALIBU 
+34.7 General Motors Chevrolet MALIBU 
+36.9 FCA US LLC Chrysler 200 
+36.9 FCA US LLC Chrysler 200 
+30.7 FCA US LLC Chrysler 200 
+28.8 FCA US LLC Chrysler 200 AWD 
+30.1 FCA US LLC Dodge Challenger 
+24.8 FCA US LLC Dodge Challenger 
+23.3 FCA US LLC Dodge Challenger 
+23.7 FCA US LLC Dodge Challenger 
+21.8 FCA US LLC Dodge Challenger 
+20.2 FCA US LLC Dodge Challenger SRT 
+19.9 FCA US LLC Dodge Challenger SRT 
+23.7 FCA US LLC Dodge Challenger SRT 
+21.8 FCA US LLC Dodge Challenger SRT 
+28.5 Ford Motor Company Ford FOCUS RS AWD 
+34.3 Ford Motor Company Ford Focus ST FWD 
+30.6 Ford Motor Company Ford FUSION AWD 
+27.2 Ford Motor Company Ford FUSION AWD 
+36.5 Ford Motor Company Ford FUSION FWD 
+32.8 Ford Motor Company Ford FUSION FWD 
+32.8 Ford Motor Company Ford FUSION FWD 
+61.5 Ford Motor Company Ford FUSION HYBRID FWD 
+70.3 Honda Honda ACCORD 
+41.4 Honda Honda ACCORD 
+39.7 Honda Honda ACCORD 
+35.6 Honda Honda ACCORD 
+34.0 Honda Honda ACCORD 
+32.6 Honda Honda ACCORD 
+28.3 Honda Honda ACCORD 
+48.7 Honda Honda CIVIC 4Dr 
+46.7 Honda Honda CIVIC 4Dr 
+47.4 Honda Honda CIVIC 4Dr 
+42.2 Honda Honda CIVIC 4Dr 
+48.5 Hyundai HYUNDAI MOTOR COMPANY Elantra 
+38.4 Hyundai HYUNDAI MOTOR COMPANY Elantra 
+33.5 Hyundai HYUNDAI MOTOR COMPANY Elantra 
+43.8 Hyundai HYUNDAI MOTOR COMPANY Elantra 
+40.5 Hyundai HYUNDAI MOTOR COMPANY Elantra 
+36.5 Hyundai HYUNDAI MOTOR COMPANY Elantra GT 
+36.5 Hyundai HYUNDAI MOTOR COMPANY Elantra GT 
+45.5 Hyundai HYUNDAI MOTOR COMPANY Elantra SE 
+56.6 Hyundai HYUNDAI MOTOR COMPANY Sonata HYBRID 
+58.5 Hyundai HYUNDAI MOTOR COMPANY Sonata HYBRID SE 
+35.4 Nissan INFINITI Q50 
+30.3 Nissan INFINITI Q50 
+33.7 Nissan INFINITI Q50 AWD 
+28.8 Nissan INFINITI Q50 AWD 
+29.6 Nissan INFINITI Q50S  RED SPORT 
+28.6 Nissan INFINITI Q50S AWD RED SPORT 
+27.0 Nissan INFINITI Q70 
+25.0 Nissan INFINITI Q70 
+26.5 Nissan INFINITI Q70 AWD 
+23.7 Nissan INFINITI Q70 AWD 
+41.3 Nissan INFINITI Q70 HYBRID 
+31.0 Jaguar Land Rover L Jaguar XF 
+49.0 Jaguar Land Rover L Jaguar XF AWD 
+30.0 Jaguar Land Rover L Jaguar XF AWD 
+38.6 Kia KIA MOTORS CORPORATION Forte 
+44.6 Kia KIA MOTORS CORPORATION Forte 
+39.0 Kia KIA MOTORS CORPORATION Forte 
+58.0 Kia KIA MOTORS CORPORATION Optima Hybrid 
+55.8 Toyota LEXUS ES 300h 
+32.3 Toyota LEXUS ES 350 
+34.6 Toyota LEXUS GS 200t 
+32.1 Toyota LEXUS GS 200t F SPORT 
+30.3 Toyota LEXUS GS 350 
+28.6 Toyota LEXUS GS 350 AWD 
+28.9 Toyota LEXUS GS 350 F SPORT 
+42.1 Toyota LEXUS GS 450h 
+25.1 Toyota LEXUS LS 460 
+23.8 Toyota LEXUS LS 460 AWD 
+25.1 Toyota LEXUS LS 460 L 
+23.8 Toyota LEXUS LS 460 L AWD 
+30.6 Ford Motor Company Lincoln MKZ AWD 
+26.1 Ford Motor Company Lincoln MKZ AWD 
+32.8 Ford Motor Company Lincoln MKZ FWD 
+27.5 Ford Motor Company Lincoln MKZ FWD 
+61.5 Ford Motor Company Lincoln MKZ HYBRID FWD 
+24.6 Maserati MASERATI Ghibli  S RWD 
+25.2 Maserati MASERATI Ghibli V6 Rear Wheel Drive (RWD) 
+24.4 Maserati MASERATI Ghibli V6 SQ4 AWD 
+43.4 MAZDA MAZDA MAZDA3 5-Door 
+42.8 MAZDA MAZDA MAZDA3 5-Door 
+41.2 MAZDA MAZDA MAZDA3 5-Door 
+41.6 MAZDA MAZDA MAZDA3 5-Door 
+37.7 MAZDA MAZDA MAZDA3 5-Door 
+39.6 MAZDA MAZDA MAZDA6 
+40.7 MAZDA MAZDA MAZDA6 
+38.0 MAZDA MAZDA MAZDA6 
+27.2 Mercedes-Benz Mercedes-Benz AMG E 43 4MATIC 
+33.7 Mercedes-Benz Mercedes-Benz E 300 
+32.6 Mercedes-Benz Mercedes-Benz E 300 4MATIC 
+35.1 BMW Mini JOHN COOPER WORKS CLUBMAN ALL4 
+32.2 BMW Mini JOHN COOPER WORKS CLUBMAN ALL4 
+37.8 BMW Mini MINI COOPER CLUBMAN 
+37.8 BMW Mini MINI COOPER CLUBMAN 
+34.8 BMW Mini MINI COOPER CLUBMAN ALL4 
+34.4 BMW Mini MINI COOPER CLUBMAN ALL4 
+36.3 BMW Mini Mini Cooper S Clubman 
+34.0 BMW Mini Mini Cooper S Clubman 
+34.3 BMW Mini Mini Cooper S Clubman ALL4 
+32.1 BMW Mini Mini Cooper S Clubman ALL4 
+44.2 Nissan NISSAN ALTIMA 
+35.0 Nissan NISSAN ALTIMA 
+43.2 Nissan NISSAN ALTIMA SR 
+33.2 Nissan NISSAN MAXIMA 
+41.5 Nissan NISSAN SENTRA 
+40.3 Nissan NISSAN SENTRA 
+44.7 Nissan NISSAN SENTRA 
+41.1 Nissan NISSAN SENTRA 
+18.7 Rolls-Royce Rolls-Royce Motor Cars Limited Wraith 
+43.1 Subaru Subaru IMPREZA 4-Door 
+41.4 Subaru Subaru IMPREZA SPORT 4-Door 
+38.5 Subaru Subaru LEGACY 
+30.1 Subaru Subaru LEGACY 
+32.2 Toyota TOYOTA AVALON 
+55.8 Toyota TOYOTA AVALON HYBRID 
+37.0 Toyota TOYOTA CAMRY 
+32.5 Toyota TOYOTA CAMRY 
+58.1 Toyota TOYOTA CAMRY HYBRID LE 
+55.4 Toyota TOYOTA CAMRY HYBRID XLE/SE 
+44.0 Toyota TOYOTA COROLLA 
+43.3 Toyota TOYOTA COROLLA 
+42.2 Toyota TOYOTA COROLLA 
+43.2 Toyota TOYOTA COROLLA iM 
+40.8 Toyota TOYOTA COROLLA iM 
+48.0 Toyota TOYOTA COROLLA LE ECO 
+45.8 Toyota TOYOTA COROLLA LE ECO 
+74.3 Toyota TOYOTA PRIUS 
+82.5 Toyota TOYOTA PRIUS Eco 
+36.2 Volkswagen Group of Volkswagen Passat 
+28.5 Volkswagen Group of Volkswagen Passat 
+33.3 Volvo "Volvo Cars of North America  LLC" S90 AWD 
+36.2 Volvo "Volvo Cars of North America  LLC" S90 FWD 
+28.3 Volkswagen Group of Audi A8L 
+27.8 Volkswagen Group of Audi A8L 
+35.6 BMW BMW 330i xDrive Gran Turismo 
+31.5 BMW BMW 340i xDrive Gran Turismo 
+29.0 BMW BMW 535i Gran Turismo 
+28.0 BMW BMW 535i xDrive Gran Turismo 
+23.8 BMW BMW 550i xDrive Gran Turismo 
+31.7 BMW BMW 740i 
+29.5 BMW BMW 740i xDrive 
+26.4 BMW BMW 750i 
+25.3 BMW BMW 750i xDrive 
+23.9 BMW BMW Alpina B7 xDrive 
+35.4 BMW BMW X1 sDrive28i 
+33.9 BMW BMW X1 xDrive28i 
+33.1 General Motors Cadillac CT6 
+27.5 General Motors Cadillac CT6 AWD 
+28.1 General Motors Cadillac CT6 AWD 
+28.3 General Motors Cadillac XTS 
+26.6 General Motors Cadillac XTS AWD 
+23.9 General Motors Cadillac XTS AWD 
+32.8 General Motors Chevrolet IMPALA 
+28.7 General Motors Chevrolet IMPALA 
+29.2 General Motors Chevrolet IMPALA 
+20.6 General Motors Chevrolet SS 
+21.6 General Motors Chevrolet SS 
+30.1 FCA US LLC Chrysler 300 
+24.8 FCA US LLC Chrysler 300 
+28.2 FCA US LLC Chrysler 300 AWD 
+28.2 FCA US LLC Chrysler 300 AWD 
+30.1 FCA US LLC Dodge Charger 
+24.8 FCA US LLC Dodge Charger 
+23.7 FCA US LLC Dodge Charger 
+28.2 FCA US LLC Dodge Charger AWD 
+28.2 FCA US LLC Dodge Charger AWD 
+20.2 FCA US LLC Dodge Charger SRT 
+23.7 FCA US LLC Dodge Charger SRT 
+25.9 Ford Motor Company Ford TAURUS AWD 
+25.7 Ford Motor Company Ford TAURUS AWD 
+25.9 Ford Motor Company Ford TAURUS AWD FFV 
+32.8 Ford Motor Company Ford TAURUS FWD 
+29.4 Ford Motor Company Ford TAURUS FWD 
+29.4 Ford Motor Company Ford TAURUS FWD FFV 
+25.3 Hyundai GENESIS G80 AWD 
+28.4 Hyundai GENESIS G80 RWD 
+22.9 Hyundai GENESIS G80 RWD 
+26.0 Hyundai GENESIS G90 AWD 
+23.5 Hyundai GENESIS G90 AWD 
+25.8 Hyundai GENESIS G90 RWD 
+24.1 Hyundai GENESIS G90 RWD 
+47.6 Honda Honda CIVIC 5Dr 
+43.9 Honda Honda CIVIC 5Dr 
+44.6 Honda Honda CIVIC 5Dr Sport 
+43.9 Honda Honda CIVIC 5Dr Sport 
+30.2 Hyundai HYUNDAI MOTOR COMPANY Azera 
+29.2 Hyundai HYUNDAI MOTOR COMPANY Azera Limited 
+73.6 Hyundai HYUNDAI MOTOR COMPANY Ioniq 
+78.4 Hyundai HYUNDAI MOTOR COMPANY Ioniq Blue 
+31.3 Hyundai HYUNDAI MOTOR COMPANY Sonata 
+34.4 Hyundai HYUNDAI MOTOR COMPANY Sonata 
+39.8 Hyundai HYUNDAI MOTOR COMPANY Sonata 
+32.6 Hyundai HYUNDAI MOTOR COMPANY Sonata Limited 
+38.5 Hyundai HYUNDAI MOTOR COMPANY Sonata SPORT/LIMITED 
+28.2 Jaguar Land Rover L Jaguar XJ 
+22.9 Jaguar Land Rover L Jaguar XJ 
+26.1 Jaguar Land Rover L Jaguar XJ AWD 
+27.9 Jaguar Land Rover L Jaguar XJL 
+22.9 Jaguar Land Rover L Jaguar XJL 
+25.8 Jaguar Land Rover L Jaguar XJL AWD 
+30.5 Kia KIA MOTORS CORPORATION Cadenza 
+36.4 Kia KIA MOTORS CORPORATION Forte5 
+34.0 Kia KIA MOTORS CORPORATION Forte5 
+38.6 Kia KIA MOTORS CORPORATION Forte5 
+26.1 Kia KIA MOTORS CORPORATION K900 
+22.8 Kia KIA MOTORS CORPORATION K900 
+43.1 Kia KIA MOTORS CORPORATION Optima 
+33.4 Kia KIA MOTORS CORPORATION Optima 
+37.7 Kia KIA MOTORS CORPORATION Optima 
+39.4 Kia KIA MOTORS CORPORATION Optima FE 
+25.7 Ford Motor Company Lincoln CONTINENTAL AWD 
+24.8 Ford Motor Company Lincoln CONTINENTAL AWD 
+24.9 Ford Motor Company Lincoln CONTINENTAL AWD 
+27.7 Ford Motor Company Lincoln CONTINENTAL FWD 
+26.4 Ford Motor Company Lincoln CONTINENTAL FWD 
+22.2 Maserati MASERATI QUATTROPORTE GTS 
+23.9 Maserati MASERATI QUATTROPORTE S 
+23.8 Maserati MASERATI QUATTROPORTE SQ4 V6 
+23.1 Mercedes-Benz Mercedes-Benz AMG S 63 4MATIC 
+20.5 Mercedes-Benz Mercedes-Benz AMG S 65 
+19.9 Mercedes-Benz Mercedes-Benz Maybach S 600 
+27.0 Mercedes-Benz Mercedes-Benz S 550 
+25.5 Mercedes-Benz Mercedes-Benz S 550 4MATIC 
+25.0 Mercedes-Benz Mercedes-Benz S 550 4MATIC Maybach 
+20.4 Mercedes-Benz Mercedes-Benz S 600 
+18.0 Rolls-Royce Rolls-Royce Motor Cars Limited Ghost 
+18.0 Rolls-Royce Rolls-Royce Motor Cars Limited Ghost EWB 
+17.6 Rolls-Royce Rolls-Royce Motor Cars Limited Phantom 
+17.6 Rolls-Royce Rolls-Royce Motor Cars Limited Phantom EWB 
+33.9 Volkswagen Group of Audi A4 allroad quattro 
+46.5 BMW BMW 328d xDrive Sports Wagon 
+35.6 BMW BMW 330i xDrive Sports Wagon 
+42.3 General Motors Chevrolet SONIC 5 
+44.8 General Motors Chevrolet SONIC 5 
+38.9 General Motors Chevrolet SONIC 5 
+39.7 General Motors Chevrolet SONIC 5 
+33.4 FCA US LLC FIAT 500L 
+50.5 Honda Honda FIT 
+47.5 Honda Honda FIT 
+43.4 Honda Honda FIT 
+39.1 Honda Honda HR-V AWD 
+39.1 Honda Honda HR-V AWD 
+42.0 Honda Honda HR-V FWD 
+42.0 Honda Honda HR-V FWD 
+38.1 Honda Honda HR-V FWD 
+26.2 Nissan INFINITI QX50 
+25.8 Nissan INFINITI QX50 AWD 
+64.6 Kia KIA MOTORS CORPORATION Niro 
+37.7 Kia KIA MOTORS CORPORATION Soul 
+36.5 Kia KIA MOTORS CORPORATION Soul 
+36.0 Kia KIA MOTORS CORPORATION Soul 
+36.1 Kia KIA MOTORS CORPORATION Soul 
+40.5 Nissan NISSAN JUKE 
+41.1 Nissan NISSAN JUKE 
+38.0 Nissan NISSAN JUKE AWD 
+38.7 Nissan NISSAN JUKE NISMO RS 
+35.7 Nissan NISSAN JUKE NISMO RS AWD 
+43.0 Subaru Subaru IMPREZA 5-Door 
+41.2 Subaru Subaru IMPREZA SPORT 5-Door 
+32.7 Volkswagen Group of Volkswagen Golf Alltrack 
+38.6 Volkswagen Group of Volkswagen Golf SportWagen 
+38.1 Volkswagen Group of Volkswagen Golf SportWagen 
+32.7 Volkswagen Group of Volkswagen Golf SportWagen 4Motion 
+34.4 Volvo "Volvo Cars of North America  LLC" V60 AWD 
+34.2 Volvo "Volvo Cars of North America  LLC" V60 AWD 
+33.2 Volvo "Volvo Cars of North America  LLC" V60 CC AWD 
+39.7 Volvo "Volvo Cars of North America  LLC" V60 FWD 
+30.0 Volvo "Volvo Cars of North America  LLC" V60 Polestar AWD 
+32.8 Mercedes-Benz Mercedes-Benz AMG GLA 45 4MATIC 
+37.1 Mercedes-Benz Mercedes-Benz GLA 250 
+31.9 Nissan NISSAN MURANO AWD 
+32.4 Nissan NISSAN MURANO FWD 
+59.5 Toyota TOYOTA PRIUS v 
+33.2 Volvo "Volvo Cars of North America  LLC" V90 CC AWD 

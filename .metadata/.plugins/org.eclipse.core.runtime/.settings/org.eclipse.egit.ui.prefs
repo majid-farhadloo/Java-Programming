@@ -1,0 +1,16 @@
+BranchProjectTracker__C\:\\GitHub\\.git_master=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<projects branch\="master">\r\n<project>\\2</project>\r\n<project>\\GitTest</project>\r\n</projects>
+BranchProjectTracker__C\:\\GitHub\\.git_newBranch=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<projects branch\="newBranch">\r\n<project>\\2</project>\r\n<project>\\GitTest</project>\r\n</projects>
+BranchProjectTracker__C\:\\GitHub\\CSCI150Test\\.git_master=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<projects branch\="master"/>
+BranchProjectTracker__C\:\\GitHub\\Test\\.git_master=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<projects branch\="master">\r\n<project>\\GitHubTest</project>\r\n</projects>
+BranchProjectTracker__C\:\\GitHub\\test123\\.git_changes=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<projects branch\="changes">\r\n<project>\\GitHubTest\\Test1</project>\r\n</projects>
+BranchProjectTracker__C\:\\GitHub\\test123\\.git_changes2=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<projects branch\="changes2">\r\n<project>\\GitHubTest\\Test1</project>\r\n</projects>
+BranchProjectTracker__C\:\\GitHub\\test123\\.git_master=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<projects branch\="master">\r\n<project>\\GitHubTest\\Test1</project>\r\n</projects>
+BranchProjectTracker__C\:\\GitHub\\test123\\.git_master2=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<projects branch\="master2">\r\n<project>\\GitHubTest\\Test1</project>\r\n</projects>
+BranchProjectTracker__C\:\\Users\\farha\\OneDrive\\Documents\\GitHub\\CSCI150\\.git_master=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<projects branch\="master">\r\n<project>\\HelloCWorld</project>\r\n</projects>
+BranchProjectTracker__C\:\\Users\\farha\\git\\.git_changes=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<projects branch\="changes"/>
+BranchProjectTracker__C\:\\Users\\farha\\git\\.git_master=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<projects branch\="master"/>
+BranchProjectTracker__C\:\\Users\\farha\\git\\CSCI150Test\\.git_master=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<projects branch\="master"/>
+commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<messages>\r\n<message>&quot;hellow&quot;</message>\r\n<message>&quot;chnages in the branch&quot;</message>\r\n<message>&quot;Merge&quot;</message>\r\n<message>&quot;changes&quot;</message>\r\n<message>&quot;Initial Change&quot;</message>\r\n<message>&quot;Hello, first Move&quot;</message>\r\n<message>make them same thing</message>\r\n<message>make sure&\#x0A;</message>\r\n<message>changes</message>\r\n<message>&quot;changes and merging&quot;</message>\r\n</messages>
+eclipse.preferences.version=1
+resourcehistory_graph_split=500,500
+resourcehistory_rev_split=700,300

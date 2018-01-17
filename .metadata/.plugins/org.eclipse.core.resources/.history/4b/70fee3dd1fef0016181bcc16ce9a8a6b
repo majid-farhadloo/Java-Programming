@@ -1,0 +1,5 @@
+
+public class MyIntegerTest {
+	MyInteger value = new MyInteger(2);
+}
+boolean val isPrime(5);

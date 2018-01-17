@@ -1,0 +1,9 @@
+15:11:27 **** Rebuild of configuration Debug for project FP ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o h.o "..\\h.cpp" 
+..\h.cpp:7:7: error: expected nested-name-specifier before 'namesapce'
+ using namesapce std;
+       ^~~~~~~~~
+
+15:11:28 Build Finished (took 1s.377ms)
+
